@@ -1,0 +1,4 @@
+Num1 = 10
+Num2 = 15
+add = Num1 + Num2
+print (add)
